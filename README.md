@@ -25,13 +25,6 @@ A C++ console-based application that simulates a video rental store, handling mo
   - Save and load rental transactions
 
 - Storage
-  - Files used: `Video.txt`, `Customer.txt`, `CustomerRent.txt`
+  - Files used: `video.txt`, `customer.txt`, `rent.txt`
 
 ---
-
-## 🧑‍💻 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/maegatron-movie-rental.git
-   cd maegatron-movie-rental
