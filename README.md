@@ -2,6 +2,9 @@
 Final project for our C++ course. 
 A C++ console-based application that simulates a video rental store, handling movie inventory, customer records, and rental transactions using STL containers such as `list`, `deque`, `stack`, and `vector`.
 
+
+# VIDEO DEMO
+**https://drive.google.com/drive/folders/1yu8Qj3CNPPfohTPih3r9_bTy40MT1Y4M?usp=sharing**
 ---
 
 ##  Features
